@@ -10,8 +10,7 @@ const logo = () => {
 
 const footer = () => {
   return (<div className="footer">
-    <a href="https://github.com/adam-cowley/graphapp-starter-react" rel="noopener noreferrer" target="_blank">
-      </a>
+    Help plz
     </div>)
 }
 
